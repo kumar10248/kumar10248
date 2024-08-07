@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **GoldChain:** A transparent way to know and trade your Gold
 
-- 🌱 I’m currently learning **MERN Stack,BlockChain**
+- 🌱 I’m currently learning **MERN Full Stack,BlockChain**
 
 - 💬 Ask me about **OS, DBMS,DSA Computer Networks**
 
