@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on **GoldChain Project:** A transparent way to know and trade your Gold.
 
-- 🌱 I’m currently learning **BlockChain, Devops**
-
+- 🌱 I’m currently learning **BlockChain and Devops**
+  
 - 💬 Ask me about **Operating System, DBMS, DSA, Computer Networks.**
 
 - 📫 How to reach me **kumardevashish000@gmail.com**
