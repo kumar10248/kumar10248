@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **GoldChain Project:** A transparent way to know and trade your Gold.
 
-- 🌱 I’m currently learning **BlockChain.**
+- 🌱 I’m currently learning **BlockChain, Devops**
 
 - 💬 Ask me about **Operating System, DBMS, DSA, Computer Networks.**
 
