@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumar Devashish</h1>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1eIS_cW0GnF08CzEENtFucL0HvLI7AhpL/view?usp=drive_link" target="_blank">Resume</a>
+</p>
+
 <h3 align="center">A passionate Full stack MERN Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar10248&label=Profile%20views&color=0e75b6&style=flat" alt="kumar10248" /> </p>
