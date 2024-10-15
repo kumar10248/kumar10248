@@ -19,8 +19,7 @@
 - 💬 Ask me about **Operating System, DBMS, DSA, Computer Networks.**
 
 - 📫 How to reach me **kumardevashish000@gmail.com**
-- ![image](https://github.com/user-attachments/assets/61c097ec-1c15-4424-a7f419057a6a1b58)
-**https://kdevashish.netlify.app/**
+- <image src="https://github.com/user-attachments/assets/61c097ec-1c15-4424-a7f419057a6a1b58"/>**https://kdevashish.netlify.app/**
 
   <h1 align="center">Tech Stacks</h1>
 
