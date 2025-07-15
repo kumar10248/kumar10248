@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/kumarde10248" target="blank"><img src="https://img.shields.io/twitter/follow/kumarde10248?logo=twitter&style=for-the-badge" alt="kumarde10248" /></a> </p>
 
-- 🔭 I’m currently working on **GoldChain Project:** A transparent way to know and trade your Gold.
+- 🔭 I’m currently working on **AI-POWERED RENEWABLE ENERGY FORECASTING**
 
 - 🌱 I’m currently learning **Devops and LINUX**
   
