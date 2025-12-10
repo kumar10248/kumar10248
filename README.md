@@ -86,7 +86,7 @@
 <samp>
 
 Want to Know More? See
-[Resume](https://drive.google.com/file/d/100Ty2zrL5KvFqjiNQOwNzyKzGnym7Wbd/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1pYfuoLSnM9R4Dg3eGHxyXXRJMyF-TuIt/view?usp=sharing)
 
 
 </samp>
