@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Devashish</h1>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/192mBI43wgJBpmejU95jzvLb0sl8cwQWX/view?usp=sharing" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view?usp=drive_link" target="_blank">Resume</a>
 </p>
 
 <h3 align="center">A Passionate Full stack MERN Web Developer.</h3>
@@ -86,7 +86,7 @@
 <samp>
 
 Want to Know More? See
-[Resume](https://drive.google.com/file/d/192mBI43wgJBpmejU95jzvLb0sl8cwQWX/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view?usp=drive_link)
 
 
 </samp>
