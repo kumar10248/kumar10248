@@ -108,12 +108,10 @@ Want to Know More? See
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar10248&theme=tokyonight&hide_border=true"/> </p>
 
-<h2>Contribution Graph</h2> 
+## 📈 GitHub Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar10248&theme=tokyo-night&hide_border=true"/> </p>
-
-<h2>Contribution Snake</h2> 
-
-<p align="center"> <img src="https://raw.githubusercontent.com/kumar10248/kumar10248/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar10248&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <h3 align="center"> Learning • Coding • Helping • Growing 🚀 </h3>
