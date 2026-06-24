@@ -1,67 +1,60 @@
-<h1 align="center">Hi 👋, I'm Kumar Devashish</h1>
+Hi 👋, I'm Kumar Devashish
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view?usp=drive_link" target="_blank">Resume</a>
-</p>
+<h3 align="center">Full Stack MERN Developer | DevOps & Linux Enthusiast</h3>
 
-<h3 align="center">A Passionate Full stack MERN Web Developer.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumar10248&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar10248&label=Profile%20views&color=0e75b6&style=flat" alt="kumar10248" /> </p>
+<p align="center"> <a href="https://devashish.top"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view"> <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=adobeacrobatreader"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar10248" alt="kumar10248" /></a> </p>
+👨‍💻 About Me
 
-<p align="left"> <a href="https://twitter.com/kumarde10248" target="blank"><img src="https://img.shields.io/twitter/follow/kumarde10248?logo=twitter&style=for-the-badge" alt="kumarde10248" /></a> </p>
+🎓 B.E. Computer Science Engineering (2026) – Chandigarh University
 
-- 🔭 I’m currently working on **AI-POWERED RENEWABLE ENERGY FORECASTING**
+🔭 Currently building AI-Powered Renewable Energy Forecasting
 
-- 🌱 I’m currently learning **Devops and LINUX**
+🌱 Learning DevOps, Linux, Docker, Kubernetes & Cloud Technologies
 
-- 💬 Ask me about **Operating System, DBMS, DSA, Computer Networks.**
+💬 Ask me about MERN Stack, DSA, DBMS, Operating Systems, and Computer Networks
 
-- 📫 How to reach me **kumardevashish000@gmail.com**
-- <a href="https://devashish.top" target="blank"><img src="https://github.com/user-attachments/assets/61c097ec-1c15-4424-a7f419057a6a1b58" alt="Portfolio" /></a>
+📫 Reach me at kumardevashish000@gmail.com
 
-  <h1 align="center">Tech Stacks</h1>
+⚡ I enjoy solving problems, automating workflows, and exploring Linux internals.
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![JUNIT](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
-![](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
-![](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+🛠️ Tech Stack
+Languages
+
+<p> <img src="https://skillicons.dev/icons?i=java,js,ts" /> </p>
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" /> </p>
+
+Backend & Database
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+
+DevOps & Cloud
+
+<p> <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,aws,azure,gcp" /> </p>
+
+Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim" /> </p>
 
 
-</div>
+🚀 Featured Projects
+🔹 ReviewAI
+
+A GitHub-style code review platform with real-time AI-powered reviews, inline comments, severity ratings, and fix suggestions.
+
+🔹 Self-Healing Infrastructure Platform for Linux Systems
+
+Autonomous DevOps Agent that continuously monitors system health and automatically heals failures
+
+🔹 Online Cloakshare
+
+A secure and temporary clipboard for anonymous text and file sharing with auto-deletion.
+
 
 
  <h2>Socials </h2>
@@ -92,9 +85,29 @@ Want to Know More? See
 </samp>
 
 
+</br>
+</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar10248&show_icons=true&locale=en&layout=compact" alt="kumar10248" /></p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar10248&show_icons=true&locale=en" alt="kumar10248" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar10248&" alt="kumar10248" /></p>
+
+📊 GitHub Statistics
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar10248&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar10248&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar10248&theme=tokyonight&hide_border=true"/> </p>
+
+📈 Contribution Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar10248&theme=tokyo-night&hide_border=true"/> </p>
