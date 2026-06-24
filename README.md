@@ -42,18 +42,19 @@ Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim" /> </p>
 
 
-🚀 Featured Projects
-🔹 ReviewAI
+## 🚀 Featured Projects
 
-A GitHub-style code review platform with real-time AI-powered reviews, inline comments, severity ratings, and fix suggestions.
+### 🔹 ReviewAI
 
-🔹 Self-Healing Infrastructure Platform for Linux Systems
+   A GitHub-style code review platform with real-time AI-powered reviews, inline comments, severity ratings, and fix suggestions.
 
-Autonomous DevOps Agent that continuously monitors system health and automatically heals failures
+### 🔹 Self-Healing Infrastructure Platform for Linux Systems
 
-🔹 Online Cloakshare
+   Autonomous DevOps Agent that continuously monitors system health and automatically heals failures
 
-A secure and temporary clipboard for anonymous text and file sharing with auto-deletion.
+### 🔹 Online Cloakshare
+
+   A secure and temporary clipboard for anonymous text and file sharing with auto-deletion.
 
 
 
