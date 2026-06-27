@@ -20,10 +20,10 @@ Hi 👋, I'm Kumar Devashish
 
 ⚡ I enjoy solving problems, automating workflows, and exploring Linux internals.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Languages
 
-<p> <img src="https://skillicons.dev/icons?i=java,js,ts" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,js,ts,bash" /> </p>
 
 Frontend
 
@@ -31,11 +31,11 @@ Frontend
 
 Backend & Database
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
 
 DevOps & Cloud
 
-<p> <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,aws,azure,gcp" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,aws" /> </p>
 
 Tools
 
