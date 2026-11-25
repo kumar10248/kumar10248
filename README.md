@@ -4,7 +4,7 @@ Hi 👋, I'm Kumar Devashish
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kumar10248&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
 
-<p align="center"> <a href="https://devashish.top"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view"> <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=adobeacrobatreader"/> </a> </p>
+<p align="center"> <a href="https://deva-portfolio-inky.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1ClmdEEqcrssHz9MNFRtA8rMHlV1ONLza/view"> <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=adobeacrobatreader"/> </a> </p>
 
 👨‍💻 About Me
 
